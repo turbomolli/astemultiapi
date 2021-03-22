@@ -4,12 +4,12 @@ Multiapi project
 
 Clone project
 
-to run backend:
+### to run backend:
 cd astemultiapi/backend
 npm install
 npm run dev
 
-to run frontend:
+### to run frontend:
 npm install -g @angular/cli
 cd astemultiapi/frontend/aste-app
 npm install
