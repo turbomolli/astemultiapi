@@ -1,18 +1,18 @@
 # astemultiapi
 Multiapi project
-### Getting started
+## Getting started
 
-#### Clone project:
+### Clone project:
 git clone https://github.com/turbomolli/astemultiapi.git
 
-#### to run backend:
+### to run backend:
 cd astemultiapi/backend
 
 npm install
 
 npm run dev
 
-#### to run frontend:
+### to run frontend:
 npm install -g @angular/cli
 
 cd astemultiapi/frontend/aste-app
