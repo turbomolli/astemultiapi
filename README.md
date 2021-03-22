@@ -3,7 +3,7 @@ Multiapi project
 ### Getting started
 
 #### Clone project:
-git clone 
+git clone https://github.com/turbomolli/astemultiapi.git
 
 #### to run backend:
 cd astemultiapi/backend
