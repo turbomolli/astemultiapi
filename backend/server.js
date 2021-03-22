@@ -1,8 +1,10 @@
 const express = require('express');
 const fetch = require('node-fetch');
+const cors = require('cors')
 const app = express();
 const PORT = 3000;
 
+app.use(cors());
 // array of apis to search
 const apiUrls = [
     'http://api.hel.fi/linkedevents/v1/search/?format=json&q=',
